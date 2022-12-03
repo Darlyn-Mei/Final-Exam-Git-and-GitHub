@@ -1,1 +1,17 @@
 # Final-Exam-Git-and-GitHub
+
+Hotel del Jojo
+
+Selamat datang di Hotel del Jojo!
+
+Berikut adalah harga dari kamar-kamar yang kami punya:
+ ___ ____________ _____________
+|   | Tipe Kamar |    Harga    |
+|___|____________|_____________|
+| 1 | Pantai     | ₩3,000,0000 |
+| 2 | Rooftop    | ₩4,500,0000 |
+| 3 | Taman      | ₩5,000,0000 |
+| 4 | Bar        | ₩1,250,0000 |
+|___|____________|_____________| 
+
+Selamat menginap!
