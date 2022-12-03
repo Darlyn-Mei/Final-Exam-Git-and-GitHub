@@ -1,6 +1,4 @@
-# Final-Exam-Git-and-GitHub
-
-Hotel del Jojo
+# Hotel del Jojo
 
 Selamat datang di Hotel del Jojo!
 
